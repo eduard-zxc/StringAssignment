@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/bin/Debug/net9.0/StringAssignment
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/bin/Debug/net9.0/StringAssignment.deps.json
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/bin/Debug/net9.0/StringAssignment.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/bin/Debug/net9.0/StringAssignment.dll
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/bin/Debug/net9.0/StringAssignment.pdb
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.dll
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/refint/StringAssignment.dll
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.pdb
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/StringAssignment.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/StringAssignment/StringAssignment/obj/Debug/net9.0/ref/StringAssignment.dll
